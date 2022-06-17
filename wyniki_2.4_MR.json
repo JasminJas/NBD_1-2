@@ -1,0 +1,406 @@
+{
+  results: [
+    {
+      _id: 'Sint Maarten',
+      value: { bmiMin: 22.218504166585912, bmiMax: 24.103065474104024 }
+    },
+    {
+      _id: 'Algeria',
+      value: { bmiMin: 28.594463853802736, bmiMax: 28.594463853802736 }
+    },
+    {
+      _id: 'Poland',
+      value: { bmiMin: 16.79139666621858, bmiMax: 36.71954280831063 }
+    },
+    {
+      _id: 'Iceland',
+      value: { bmiMin: 22.674667319714626, bmiMax: 30.14738226195103 }
+    },
+    {
+      _id: 'French Guiana',
+      value: { bmiMin: 22.271800501837575, bmiMax: 28.91121902539661 }
+    },
+    {
+      _id: 'Monaco',
+      value: { bmiMin: 28.9279758282314, bmiMax: 28.9279758282314 }
+    },
+    {
+      _id: 'France',
+      value: { bmiMin: 14.89181034611511, bmiMax: 40.687098141766576 }
+    },
+    {
+      _id: 'Germany',
+      value: { bmiMin: 16.779702545176814, bmiMax: 32.56393192452176 }
+    },
+    {
+      _id: 'Lesotho',
+      value: { bmiMin: 19.804653958825412, bmiMax: 30.164460328890495 }
+    },
+    {
+      _id: 'Denmark',
+      value: { bmiMin: 21.08473436367003, bmiMax: 27.824860598421296 }
+    },
+    {
+      _id: 'Canada',
+      value: { bmiMin: 16.408314613251758, bmiMax: 33.613037538372204 }
+    },
+    {
+      _id: 'Croatia',
+      value: { bmiMin: 18.791459338166646, bmiMax: 38.54454850434303 }
+    },
+    {
+      _id: 'Albania',
+      value: { bmiMin: 18.995343497963386, bmiMax: 31.98582559382973 }
+    },
+    {
+      _id: 'South Sudan',
+      value: { bmiMin: 25.958795187276632, bmiMax: 25.958795187276632 }
+    },
+    {
+      _id: 'Namibia',
+      value: { bmiMin: 19.26580170883617, bmiMax: 32.280397498780374 }
+    },
+    {
+      _id: 'Iran',
+      value: { bmiMin: 18.237996217377763, bmiMax: 37.98020856315509 }
+    },
+    {
+      _id: 'Guinea',
+      value: { bmiMin: 20.460478773371793, bmiMax: 34.462128538412365 }
+    },
+    {
+      _id: 'Libya',
+      value: { bmiMin: 21.42742372829579, bmiMax: 35.14959498858504 }
+    },
+    {
+      _id: 'Uzbekistan',
+      value: { bmiMin: 19.78219777101565, bmiMax: 32.30460851219658 }
+    },
+    {
+      _id: 'Mongolia',
+      value: { bmiMin: 19.12334810050309, bmiMax: 31.47600262984878 }
+    },
+    {
+      _id: 'Comoros',
+      value: { bmiMin: 19.73678859401531, bmiMax: 33.86465840113391 }
+    },
+    {
+      _id: 'Lithuania',
+      value: { bmiMin: 19.68833974966633, bmiMax: 30.887830005968027 }
+    },
+    {
+      _id: 'South Africa',
+      value: { bmiMin: 17.33504330126283, bmiMax: 40.54150514193364 }
+    },
+    {
+      _id: 'Mauritius',
+      value: { bmiMin: 19.225308641975307, bmiMax: 38.86342108446305 }
+    },
+    {
+      _id: 'Yemen',
+      value: { bmiMin: 20.910656892847584, bmiMax: 34.85489627858924 }
+    },
+    {
+      _id: 'Egypt',
+      value: { bmiMin: 17.650429873238075, bmiMax: 32.033722500448945 }
+    },
+    {
+      _id: 'Afghanistan',
+      value: { bmiMin: 17.09902396818706, bmiMax: 31.680724277814612 }
+    },
+    {
+      _id: 'Turkmenistan',
+      value: { bmiMin: 21.536036875349122, bmiMax: 30.263793694794966 }
+    },
+    {
+      _id: 'Philippines',
+      value: { bmiMin: 15.783361633607486, bmiMax: 40.14921877820496 }
+    },
+    {
+      _id: 'Puerto Rico',
+      value: { bmiMin: 22.624807178343218, bmiMax: 27.28341528253193 }
+    },
+    {
+      _id: 'Micronesia',
+      value: { bmiMin: 20.483583148077006, bmiMax: 25.24886656617766 }
+    },
+    {
+      _id: 'Democratic Republic of the Congo',
+      value: { bmiMin: 18.27553140160477, bmiMax: 33.515401571866754 }
+    },
+    {
+      _id: 'Marshall Islands',
+      value: { bmiMin: 22.403515045781823, bmiMax: 26.899880561973735 }
+    },
+    {
+      _id: 'Greenland',
+      value: { bmiMin: 25.87231726224435, bmiMax: 25.87231726224435 }
+    },
+    {
+      _id: 'New Caledonia',
+      value: { bmiMin: 24.07180767559938, bmiMax: 26.939955901091704 }
+    },
+    {
+      _id: 'Guinea-Bissau',
+      value: { bmiMin: 23.28512818429207, bmiMax: 26.54403588086242 }
+    },
+    {
+      _id: 'Sudan',
+      value: { bmiMin: 22.771848958184258, bmiMax: 26.388338263210727 }
+    },
+    {
+      _id: 'Moldova',
+      value: { bmiMin: 19.688381123290274, bmiMax: 32.56715420989366 }
+    },
+    {
+      _id: 'North Korea',
+      value: { bmiMin: 20.924212172010197, bmiMax: 30.614290364070975 }
+    },
+    {
+      _id: 'Haiti',
+      value: { bmiMin: 18.63873039318409, bmiMax: 34.706505929936306 }
+    },
+    {
+      _id: 'United States',
+      value: { bmiMin: 18.501182435921706, bmiMax: 36.69514941999169 }
+    },
+    {
+      _id: 'Kenya',
+      value: { bmiMin: 21.963094173998595, bmiMax: 32.415973001368904 }
+    },
+    {
+      _id: 'Martinique',
+      value: { bmiMin: 24.025383631333913, bmiMax: 24.025383631333913 }
+    },
+    {
+      _id: 'Maldives',
+      value: { bmiMin: 23.654619429922963, bmiMax: 28.258302397598005 }
+    },
+    {
+      _id: 'El Salvador',
+      value: { bmiMin: 21.92582816065902, bmiMax: 33.56299576484531 }
+    },
+    {
+      _id: 'Guam',
+      value: { bmiMin: 20.673090321864905, bmiMax: 24.012673635721274 }
+    },
+    {
+      _id: 'Estonia',
+      value: { bmiMin: 18.560878620789442, bmiMax: 28.68360155605993 }
+    },
+    {
+      _id: 'Uruguay',
+      value: { bmiMin: 20.368800960879323, bmiMax: 34.361426322308105 }
+    },
+    {
+      _id: 'Czech Republic',
+      value: { bmiMin: 15.668304358780548, bmiMax: 33.15190133598319 }
+    },
+    {
+      _id: 'Laos',
+      value: { bmiMin: 20.41440590786993, bmiMax: 28.47054793500705 }
+    },
+    {
+      _id: 'Somalia',
+      value: { bmiMin: 29.953705951906365, bmiMax: 29.953705951906365 }
+    },
+    {
+      _id: 'Angola',
+      value: { bmiMin: 18.36240074409329, bmiMax: 31.67480491405164 }
+    },
+    {
+      _id: 'Chile',
+      value: { bmiMin: 16.9512916270108, bmiMax: 29.79885840825515 }
+    },
+    {
+      _id: 'Belgium',
+      value: { bmiMin: 20.047926099827215, bmiMax: 28.997682388567068 }
+    },
+    {
+      _id: 'Indonesia',
+      value: { bmiMin: 14.752916025545577, bmiMax: 45.2254888114332 }
+    },
+    {
+      _id: 'Tanzania',
+      value: { bmiMin: 17.23592052068185, bmiMax: 34.9992957297564 }
+    },
+    {
+      _id: 'Brunei',
+      value: { bmiMin: 25.02697259105827, bmiMax: 25.02697259105827 }
+    },
+    {
+      _id: 'Morocco',
+      value: { bmiMin: 20.182304322324796, bmiMax: 32.90604019213787 }
+    },
+    {
+      _id: 'Honduras',
+      value: { bmiMin: 18.483295476526518, bmiMax: 35.220664454748544 }
+    },
+    {
+      _id: 'Austria',
+      value: { bmiMin: 23.01532709975852, bmiMax: 37.259975846114166 }
+    },
+    {
+      _id: 'Slovakia',
+      value: { bmiMin: 21.33881881098346, bmiMax: 21.33881881098346 }
+    },
+    {
+      _id: 'Slovenia',
+      value: { bmiMin: 17.370385779694157, bmiMax: 32.66109875399449 }
+    },
+    {
+      _id: 'Rwanda',
+      value: { bmiMin: 22.834957662274157, bmiMax: 27.60395919371098 }
+    },
+    {
+      _id: 'Ecuador',
+      value: { bmiMin: 19.837789435759387, bmiMax: 31.540757595400457 }
+    },
+    {
+      _id: 'Venezuela',
+      value: { bmiMin: 18.86211751235061, bmiMax: 31.135855490289444 }
+    },
+    {
+      _id: 'United Kingdom',
+      value: { bmiMin: 19.42792867188164, bmiMax: 31.903158982438526 }
+    },
+    {
+      _id: 'Burundi',
+      value: { bmiMin: 23.41760581267604, bmiMax: 28.50245013159454 }
+    },
+    {
+      _id: 'Pakistan',
+      value: { bmiMin: 17.507302336811122, bmiMax: 35.54144749573527 }
+    },
+    {
+      _id: 'Madagascar',
+      value: { bmiMin: 17.556666479697988, bmiMax: 30.189583737327382 }
+    },
+    {
+      _id: 'Panama',
+      value: { bmiMin: 20.497034879989776, bmiMax: 33.20491691331714 }
+    },
+    {
+      _id: 'Samoa',
+      value: { bmiMin: 20.544882004532674, bmiMax: 20.544882004532674 }
+    },
+    {
+      _id: 'Sri Lanka',
+      value: { bmiMin: 20.744421581687575, bmiMax: 28.60361966419167 }
+    },
+    {
+      _id: 'Bahamas',
+      value: { bmiMin: 22.243665360172294, bmiMax: 26.59649455139833 }
+    },
+    {
+      _id: 'Armenia',
+      value: { bmiMin: 19.17386933002285, bmiMax: 31.668511004463014 }
+    },
+    {
+      _id: 'Burkina Faso',
+      value: { bmiMin: 19.874924416260058, bmiMax: 39.84736448162324 }
+    },
+    {
+      _id: 'Botswana',
+      value: { bmiMin: 17.209620064111167, bmiMax: 27.18178743838766 }
+    },
+    {
+      _id: 'Mauritania',
+      value: { bmiMin: 20.427479249813242, bmiMax: 22.6996212151413 }
+    },
+    {
+      _id: 'Zambia',
+      value: { bmiMin: 20.338719513529025, bmiMax: 31.44864603504859 }
+    },
+    {
+      _id: 'Eritrea',
+      value: { bmiMin: 24.502688749443237, bmiMax: 28.706187680256324 }
+    },
+    {
+      _id: 'French Polynesia',
+      value: { bmiMin: 20.299688460981415, bmiMax: 28.53922794918567 }
+    },
+    {
+      _id: 'Cuba',
+      value: { bmiMin: 18.489462979361967, bmiMax: 35.42409829567975 }
+    },
+    {
+      _id: 'Taiwan',
+      value: { bmiMin: 20.359929764833222, bmiMax: 31.171391695878288 }
+    },
+    {
+      _id: 'Kazakhstan',
+      value: { bmiMin: 16.8070799358325, bmiMax: 36.896740125150984 }
+    },
+    {
+      _id: 'Argentina',
+      value: { bmiMin: 17.58733455568425, bmiMax: 34.13224063185605 }
+    },
+    {
+      _id: 'Dominican Republic',
+      value: { bmiMin: 18.01287119956941, bmiMax: 30.32549350733766 }
+    },
+    {
+      _id: 'Nicaragua',
+      value: { bmiMin: 19.7754882642013, bmiMax: 30.0372110793386 }
+    },
+    {
+      _id: 'Turkey',
+      value: { bmiMin: 22.712340024306464, bmiMax: 23.218818230827427 }
+    },
+    {
+      _id: 'Saudi Arabia',
+      value: { bmiMin: 19.971991294865283, bmiMax: 32.095388696280175 }
+    },
+    {
+      _id: 'Russia',
+      value: { bmiMin: 15.959050973980357, bmiMax: 39.88445766499928 }
+    },
+    {
+      _id: 'Ivory Coast',
+      value: { bmiMin: 20.497202679469442, bmiMax: 35.26565858224913 }
+    },
+    {
+      _id: 'Macao',
+      value: { bmiMin: 23.98847768982694, bmiMax: 23.98847768982694 }
+    },
+    {
+      _id: 'Brazil',
+      value: { bmiMin: 17.455901881799914, bmiMax: 40.629137270681994 }
+    },
+    {
+      _id: 'Vietnam',
+      value: { bmiMin: 16.588074623788906, bmiMax: 32.97072894443237 }
+    },
+    {
+      _id: 'Hungary',
+      value: { bmiMin: 22.357117184320284, bmiMax: 32.69237888437416 }
+    },
+    {
+      _id: 'Serbia',
+      value: { bmiMin: 18.75880119586755, bmiMax: 43.54832804682019 }
+    },
+    {
+      _id: 'Spain',
+      value: { bmiMin: 21.71883995935713, bmiMax: 34.9356602063431 }
+    },
+    {
+      _id: 'Nauru',
+      value: { bmiMin: 22.91236113053845, bmiMax: 22.91236113053845 }
+    },
+    {
+      _id: 'Mexico',
+      value: { bmiMin: 17.298446794148454, bmiMax: 36.27087514967179 }
+    },
+    {
+      _id: 'Kiribati',
+      value: { bmiMin: 23.104683336146245, bmiMax: 23.104683336146245 }
+    },
+    {
+      _id: 'Wallis and Futuna',
+      value: { bmiMin: 24.33390757821489, bmiMax: 28.43117093855067 }
+    },
+    ... 101 more items
+  ],
+  ok: 1
+}

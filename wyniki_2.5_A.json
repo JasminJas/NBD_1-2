@@ -1,0 +1,365 @@
+{
+  _id: 'UAH',
+  totalBalancePerCurrency: Decimal128("40471.84"),
+  avarageBalance: Decimal128("5058.98")
+}
+{
+  _id: 'TZS',
+  totalBalancePerCurrency: Decimal128("7052.37"),
+  avarageBalance: Decimal128("3526.185")
+}
+{
+  _id: 'EGP',
+  totalBalancePerCurrency: Decimal128("5579.3"),
+  avarageBalance: Decimal128("5579.3")
+}
+{
+  _id: 'AFN',
+  totalBalancePerCurrency: Decimal128("16755.49"),
+  avarageBalance: Decimal128("5585.163333333333333333333333333333")
+}
+{
+  _id: 'BYR',
+  totalBalancePerCurrency: Decimal128("5095.79"),
+  avarageBalance: Decimal128("5095.79")
+}
+{
+  _id: 'YER',
+  totalBalancePerCurrency: Decimal128("13712.50"),
+  avarageBalance: Decimal128("4570.833333333333333333333333333333")
+}
+{
+  _id: 'VUV',
+  totalBalancePerCurrency: Decimal128("6418.27"),
+  avarageBalance: Decimal128("6418.27")
+}
+{
+  _id: 'AMD',
+  totalBalancePerCurrency: Decimal128("24609.33"),
+  avarageBalance: Decimal128("4921.866")
+}
+{
+  _id: 'PLN',
+  totalBalancePerCurrency: Decimal128("90770.78"),
+  avarageBalance: Decimal128("5042.821111111111111111111111111111")
+}
+{
+  _id: 'MAD',
+  totalBalancePerCurrency: Decimal128("3818.85"),
+  avarageBalance: Decimal128("3818.85")
+}
+{
+  _id: 'RSD',
+  totalBalancePerCurrency: Decimal128("4276.56"),
+  avarageBalance: Decimal128("4276.56")
+}
+{
+  _id: 'CDF',
+  totalBalancePerCurrency: Decimal128("12228.8"),
+  avarageBalance: Decimal128("6114.4")
+}
+{
+  _id: 'XPF',
+  totalBalancePerCurrency: Decimal128("4759.07"),
+  avarageBalance: Decimal128("4759.07")
+}
+{
+  _id: 'BGN',
+  totalBalancePerCurrency: Decimal128("21200.88"),
+  avarageBalance: Decimal128("5300.22")
+}
+{
+  _id: 'TJS',
+  totalBalancePerCurrency: Decimal128("4087.71"),
+  avarageBalance: Decimal128("4087.71")
+}
+{
+  _id: 'SRD',
+  totalBalancePerCurrency: Decimal128("5286.68"),
+  avarageBalance: Decimal128("5286.68")
+}
+{
+  _id: 'ETB',
+  totalBalancePerCurrency: Decimal128("5436.11"),
+  avarageBalance: Decimal128("5436.11")
+}
+{
+  _id: 'KZT',
+  totalBalancePerCurrency: Decimal128("3788.95"),
+  avarageBalance: Decimal128("3788.95")
+}
+{
+  _id: 'BWP',
+  totalBalancePerCurrency: Decimal128("4076.29"),
+  avarageBalance: Decimal128("4076.29")
+}
+{
+  _id: 'MYR',
+  totalBalancePerCurrency: Decimal128("4781.12"),
+  avarageBalance: Decimal128("4781.12")
+}
+{
+  _id: 'VND',
+  totalBalancePerCurrency: Decimal128("36160.26"),
+  avarageBalance: Decimal128("4520.0325")
+}
+{
+  _id: 'CLP',
+  totalBalancePerCurrency: Decimal128("21008.95"),
+  avarageBalance: Decimal128("5252.2375")
+}
+{
+  _id: 'MGA',
+  totalBalancePerCurrency: Decimal128("14560.99"),
+  avarageBalance: Decimal128("4853.663333333333333333333333333333")
+}
+{
+  _id: 'NIO',
+  totalBalancePerCurrency: Decimal128("9971.28"),
+  avarageBalance: Decimal128("4985.64")
+}
+{
+  _id: 'MNT',
+  totalBalancePerCurrency: Decimal128("21715.61"),
+  avarageBalance: Decimal128("5428.9025")
+}
+{
+  _id: 'KRW',
+  totalBalancePerCurrency: Decimal128("13379.82"),
+  avarageBalance: Decimal128("6689.91")
+}
+{
+  _id: 'RWF',
+  totalBalancePerCurrency: Decimal128("4632.88"),
+  avarageBalance: Decimal128("4632.88")
+}
+{
+  _id: 'ZMW',
+  totalBalancePerCurrency: Decimal128("5569.56"),
+  avarageBalance: Decimal128("5569.56")
+}
+{
+  _id: 'PKR',
+  totalBalancePerCurrency: Decimal128("18938.00"),
+  avarageBalance: Decimal128("4734.50")
+}
+{
+  _id: 'MMK',
+  totalBalancePerCurrency: Decimal128("4629.42"),
+  avarageBalance: Decimal128("4629.42")
+}
+{
+  _id: 'EUR',
+  totalBalancePerCurrency: Decimal128("245091.47"),
+  avarageBalance: Decimal128("4901.8294")
+}
+{
+  _id: 'GBP',
+  totalBalancePerCurrency: Decimal128("6149.19"),
+  avarageBalance: Decimal128("6149.19")
+}
+{
+  _id: 'ZWL',
+  totalBalancePerCurrency: Decimal128("5792.17"),
+  avarageBalance: Decimal128("5792.17")
+}
+{
+  _id: 'MKD',
+  totalBalancePerCurrency: Decimal128("3835.05"),
+  avarageBalance: Decimal128("3835.05")
+}
+{
+  _id: 'HNL',
+  totalBalancePerCurrency: Decimal128("16514.59"),
+  avarageBalance: Decimal128("5504.863333333333333333333333333333")
+}
+{
+  _id: 'MXN',
+  totalBalancePerCurrency: Decimal128("50229.00"),
+  avarageBalance: Decimal128("5022.90")
+}
+{
+  _id: 'CAD',
+  totalBalancePerCurrency: Decimal128("58375.60"),
+  avarageBalance: Decimal128("5306.872727272727272727272727272727")
+}
+{
+  _id: 'XAF',
+  totalBalancePerCurrency: Decimal128("14094.66"),
+  avarageBalance: Decimal128("4698.22")
+}
+{
+  _id: 'ILS',
+  totalBalancePerCurrency: Decimal128("16295.49"),
+  avarageBalance: Decimal128("5431.83")
+}
+{
+  _id: 'MWK',
+  totalBalancePerCurrency: Decimal128("3574.42"),
+  avarageBalance: Decimal128("3574.42")
+}
+{
+  _id: 'DOP',
+  totalBalancePerCurrency: Decimal128("20674.74"),
+  avarageBalance: Decimal128("5168.685")
+}
+{
+  _id: 'SEK',
+  totalBalancePerCurrency: Decimal128("70840.19"),
+  avarageBalance: Decimal128("5060.013571428571428571428571428571")
+}
+{
+  _id: 'GTQ',
+  totalBalancePerCurrency: Decimal128("5806.3"),
+  avarageBalance: Decimal128("5806.3")
+}
+{
+  _id: 'VEF',
+  totalBalancePerCurrency: Decimal128("8333.28"),
+  avarageBalance: Decimal128("4166.64")
+}
+{
+  _id: 'CNY',
+  totalBalancePerCurrency: Decimal128("470700.38"),
+  avarageBalance: Decimal128("4954.740842105263157894736842105263")
+}
+{
+  _id: 'THB',
+  totalBalancePerCurrency: Decimal128("23021.96"),
+  avarageBalance: Decimal128("4604.392")
+}
+{
+  _id: 'JPY',
+  totalBalancePerCurrency: Decimal128("60944.74"),
+  avarageBalance: Decimal128("5078.728333333333333333333333333333")
+}
+{
+  _id: 'RUB',
+  totalBalancePerCurrency: Decimal128("119749.15"),
+  avarageBalance: Decimal128("4989.547916666666666666666666666667")
+}
+{
+  _id: 'PHP',
+  totalBalancePerCurrency: Decimal128("118606.28"),
+  avarageBalance: Decimal128("4941.928333333333333333333333333333")
+}
+{
+  _id: 'NPR',
+  totalBalancePerCurrency: Decimal128("5792.26"),
+  avarageBalance: Decimal128("5792.26")
+}
+{
+  _id: 'ISK',
+  totalBalancePerCurrency: Decimal128("4316.41"),
+  avarageBalance: Decimal128("4316.41")
+}
+{
+  _id: 'BOB',
+  totalBalancePerCurrency: Decimal128("5263.3"),
+  avarageBalance: Decimal128("5263.3")
+}
+{
+  _id: 'PEN',
+  totalBalancePerCurrency: Decimal128("23227.35"),
+  avarageBalance: Decimal128("4645.47")
+}
+{
+  _id: 'HRK',
+  totalBalancePerCurrency: Decimal128("24354.82"),
+  avarageBalance: Decimal128("4870.964")
+}
+{
+  _id: 'KYD',
+  totalBalancePerCurrency: Decimal128("3760.89"),
+  avarageBalance: Decimal128("3760.89")
+}
+{
+  _id: 'ZAR',
+  totalBalancePerCurrency: Decimal128("11790.92"),
+  avarageBalance: Decimal128("3930.306666666666666666666666666667")
+}
+{
+  _id: 'ALL',
+  totalBalancePerCurrency: Decimal128("3325.48"),
+  avarageBalance: Decimal128("3325.48")
+}
+{
+  _id: 'USD',
+  totalBalancePerCurrency: Decimal128("80650.70"),
+  avarageBalance: Decimal128("5040.66875")
+}
+{
+  _id: 'UZS',
+  totalBalancePerCurrency: Decimal128("3573.03"),
+  avarageBalance: Decimal128("3573.03")
+}
+{
+  _id: 'CUP',
+  totalBalancePerCurrency: Decimal128("15017.34"),
+  avarageBalance: Decimal128("5005.78")
+}
+{
+  _id: 'IRR',
+  totalBalancePerCurrency: Decimal128("26504.24"),
+  avarageBalance: Decimal128("4417.373333333333333333333333333333")
+}
+{
+  _id: 'XOF',
+  totalBalancePerCurrency: Decimal128("17882.05"),
+  avarageBalance: Decimal128("5960.683333333333333333333333333333")
+}
+{
+  _id: 'NOK',
+  totalBalancePerCurrency: Decimal128("4773.66"),
+  avarageBalance: Decimal128("4773.66")
+}
+{
+  _id: 'COP',
+  totalBalancePerCurrency: Decimal128("19746.73"),
+  avarageBalance: Decimal128("4936.6825")
+}
+{
+  _id: 'BRL',
+  totalBalancePerCurrency: Decimal128("49632.02"),
+  avarageBalance: Decimal128("4512.001818181818181818181818181818")
+}
+{
+  _id: 'IQD',
+  totalBalancePerCurrency: Decimal128("4269.39"),
+  avarageBalance: Decimal128("4269.39")
+}
+{
+  _id: 'CZK',
+  totalBalancePerCurrency: Decimal128("37156.42"),
+  avarageBalance: Decimal128("4644.5525")
+}
+{
+  _id: 'IDR',
+  totalBalancePerCurrency: Decimal128("323922.59"),
+  avarageBalance: Decimal128("4907.918030303030303030303030303030")
+}
+{
+  _id: 'LYD',
+  totalBalancePerCurrency: Decimal128("8764.99"),
+  avarageBalance: Decimal128("4382.495")
+}
+{
+  _id: 'ARS',
+  totalBalancePerCurrency: Decimal128("23242.00"),
+  avarageBalance: Decimal128("4648.40")
+}
+{
+  _id: 'PYG',
+  totalBalancePerCurrency: Decimal128("4874.69"),
+  avarageBalance: Decimal128("4874.69")
+}
+{
+  _id: 'NGN',
+  totalBalancePerCurrency: Decimal128("24946.23"),
+  avarageBalance: Decimal128("4157.705")
+}
+{
+  _id: 'NZD',
+  totalBalancePerCurrency: Decimal128("5328.46"),
+  avarageBalance: Decimal128("5328.46")
+}
